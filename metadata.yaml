@@ -1,0 +1,37 @@
+_repo: China-and-the-Chinese_63733
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: D'Anvers, N.
+    aliases:
+    - Bell, Nancy R. E. Meugens
+    - Bell, Mrs. Arthur
+    - Bell, Mrs. Arthur G.
+    - Bell, Nancy
+    deathdate: 1933
+    gutenberg_agent_id: '1165'
+    url: http://www.gutenberg.org/2009/agents/1165
+    wikipedia: https://en.wikipedia.org/wiki/Nancy_Bell_(author)
+creator:
+  author:
+    agent_name: Plauchut, Edmond
+    alias: Plauchut, Edmund
+    birthdate: 1824
+    deathdate: 1909
+    gutenberg_agent_id: '52570'
+    url: http://www.gutenberg.org/2009/agents/52570
+description: ''
+gutenberg_issued: '2020-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: China and the Chinese
+url: http://www.gutenberg.org/ebooks/63733
