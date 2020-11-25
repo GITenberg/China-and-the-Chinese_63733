@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '1165'
     url: http://www.gutenberg.org/2009/agents/1165
     wikipedia: https://en.wikipedia.org/wiki/Nancy_Bell_(author)
+covers:
+- cover_type: archival
+  image_path: 63733-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Plauchut, Edmond
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '52570'
     url: http://www.gutenberg.org/2009/agents/52570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63733#China-and-the-Chinese
 gutenberg_issued: '2020-11-12'
 gutenberg_type: Text
 identifiers:
